@@ -30,7 +30,7 @@ const QuestionForm = ({ onAdd, onCancel }) => {
         <textarea placeholder="Optional notes" value={form.notes} onChange={update("notes")} className="min-h-20 rounded-lg border border-slate-200 p-3 text-sm sm:col-span-2 dark:border-slate-700 dark:bg-slate-800" />
       </div>
       {error && <p className="mt-2 text-sm text-red-600" role="alert">{error}</p>}
-      <Button className="mt-4">Add question</Button>
+      <Button type="submit" className="mt-4">Add question</Button>
     </form>
   );
 };
