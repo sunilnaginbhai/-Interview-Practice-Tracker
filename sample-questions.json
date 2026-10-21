@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Two Sum",
+    "category": "DSA",
+    "difficulty": "Easy",
+    "status": "Completed",
+    "notes": "Solve using a hash map and explain the O(n) time complexity.",
+    "createdAt": "2026-10-15T09:00:00.000Z",
+    "completedAt": "2026-10-15T09:30:00.000Z"
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "category": "DSA",
+    "difficulty": "Medium",
+    "status": "Completed",
+    "notes": "Practice the sliding-window approach.",
+    "createdAt": "2026-10-16T09:00:00.000Z",
+    "completedAt": "2026-10-16T10:00:00.000Z"
+  },
+  {
+    "title": "Binary Tree Level Order Traversal",
+    "category": "DSA",
+    "difficulty": "Medium",
+    "status": "In Progress",
+    "notes": "Compare BFS queue implementation with recursive DFS.",
+    "createdAt": "2026-10-17T09:00:00.000Z"
+  },
+  {
+    "title": "Git Rebase vs Git Merge",
+    "category": "Git",
+    "difficulty": "Easy",
+    "status": "Completed",
+    "notes": "Prepare a practical explanation with conflict resolution steps.",
+    "createdAt": "2026-10-17T14:00:00.000Z",
+    "completedAt": "2026-10-17T15:00:00.000Z"
+  },
+  {
+    "title": "Recovering from an Accidental Git Reset",
+    "category": "Git",
+    "difficulty": "Medium",
+    "status": "Pending",
+    "notes": "Review reflog and safe recovery workflow.",
+    "createdAt": "2026-10-18T09:00:00.000Z"
+  },
+  {
+    "title": "Explain React Rendering and Reconciliation",
+    "category": "Technical",
+    "difficulty": "Medium",
+    "status": "Completed",
+    "notes": "Cover keys, state updates, and memoization.",
+    "createdAt": "2026-10-18T11:00:00.000Z",
+    "completedAt": "2026-10-18T12:00:00.000Z"
+  },
+  {
+    "title": "Design a Rate Limiter",
+    "category": "Technical",
+    "difficulty": "Hard",
+    "status": "In Progress",
+    "notes": "Compare token bucket and sliding-window algorithms.",
+    "createdAt": "2026-10-19T09:00:00.000Z"
+  },
+  {
+    "title": "Build a Debounced Search Component",
+    "category": "Machine Coding",
+    "difficulty": "Easy",
+    "status": "Completed",
+    "notes": "Include loading, error, empty, and keyboard states.",
+    "createdAt": "2026-10-19T13:00:00.000Z",
+    "completedAt": "2026-10-19T14:00:00.000Z"
+  },
+  {
+    "title": "Create an Accessible Kanban Board",
+    "category": "Machine Coding",
+    "difficulty": "Hard",
+    "status": "Pending",
+    "notes": "Focus on keyboard navigation and responsive drag targets.",
+    "createdAt": "2026-10-20T09:00:00.000Z"
+  },
+  {
+    "title": "Explain Browser Storage Options",
+    "category": "Technical",
+    "difficulty": "Easy",
+    "status": "Pending",
+    "notes": "Compare localStorage, IndexedDB, cookies, and sessionStorage.",
+    "createdAt": "2026-10-20T14:00:00.000Z"
+  }
+]
